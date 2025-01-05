@@ -17,7 +17,6 @@ jobs:
       - name: 💎 setup ruby & install dependencies
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0.2 # can change this to 2.7 or whatever version you prefer
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: 🔨 build site
