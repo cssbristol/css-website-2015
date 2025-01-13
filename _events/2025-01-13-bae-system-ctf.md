@@ -4,7 +4,7 @@ title: BAE Systems Capture the Flag
 published: true
 cancelled: false
 date: 2025-01-18 10:30:00 +0000
-date_end: 2025-02-03 16:30:00 +0000
+date_end: 2025-01-18 16:30:00 +0000
 banner: /assets/images/contrib/events/2023-02-03_bae_ctf.jpg
 location: MVB 2.11 Lab
 category:
